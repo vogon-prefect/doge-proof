@@ -1,0 +1,2 @@
+# doge-proof
+SYSTEM NODE_001 // OBSERVATIONAL ENTRY
